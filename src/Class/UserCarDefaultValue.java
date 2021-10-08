@@ -1,4 +1,4 @@
-package chapter6;
+package Class;
 
 public class UserCarDefaultValue {
     public static void main(String[] args){

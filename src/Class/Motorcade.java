@@ -1,4 +1,4 @@
-package chapter6;
+package Class;
 
 public class Motorcade {
     String name;

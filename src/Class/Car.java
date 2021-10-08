@@ -1,4 +1,4 @@
-package chapter6;
+package Class;
 
 public class Car {
     int speed = 50;
