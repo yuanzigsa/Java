@@ -1,10 +1,5 @@
 package Method;
 
-import com.oracle.xmlns.internal.webservices.jaxws_databinding.SoapBindingParameterStyle;
-import com.sun.deploy.uitoolkit.impl.fx.AppletStageManager;
-
-import java.net.SocketOption;
-
 public class Max {
     public static void main(String[] args) {
         getMax();
