@@ -47,3 +47,4 @@ public class CountScripComplex {
 		System.out.println(serveTimes + "次结算已经结束，结账员可以休息一下啦！");
 	}
 }
+
