@@ -2,12 +2,12 @@ package OOP;
 
 public class Game {
     public void start(){
-        System.out.println("å¼€æœºï¼Œå‡†å¤‡å°±ç»ª");
+        System.out.println("¿ª»ú£¬×¼±¸¾ÍĞ÷");
     }
     public void play(){
-        System.out.println("æˆ‘è¦æ‰“æ¸¸æˆ");
+        System.out.println("ÎÒÒª´òÓÎÏ·");
     }
     public void end(){
-        System.out.println("å…³æœºï¼Œç¡è§‰");
+        System.out.println("¹Ø»ú£¬Ë¯¾õ");
     }
 }

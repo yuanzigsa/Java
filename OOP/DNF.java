@@ -1,6 +1,6 @@
 package OOP;
 public class DNF extends Game{
     public void play(){
-        System.out.println("åˆ·åˆ·åˆ·ï¼Œè‚å°±è¡Œäº†");
+        System.out.println("Ë¢Ë¢Ë¢£¬¸Î¾ÍĞĞÁË");
     }
 }

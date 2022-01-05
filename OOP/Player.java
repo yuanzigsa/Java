@@ -2,9 +2,9 @@ package OOP;
 
 public class Player {
     public void happy(Game game){
-        game.start();//ä¸€å®šæ˜¯çˆ¶ç±»ä¸­çš„æ–¹æ³•
-        game.play();//æœ‰å¯èƒ½æ˜¯å­ç±»ä¸­çš„æ–¹æ³•
-        game.end();//ä¸€å®šæ˜¯çˆ¶ç±»ä¸­çš„æ–¹æ³•
-        System.out.println("å¼€å¿ƒ");
+        game.start();//Ò»¶¨ÊÇ¸¸ÀàÖĞµÄ·½·¨
+        game.play();//ÓĞ¿ÉÄÜÊÇ×ÓÀàÖĞµÄ·½·¨
+        game.end();//Ò»¶¨ÊÇ¸¸ÀàÖĞµÄ·½·¨
+        System.out.println("¿ªĞÄ");
     }
 }

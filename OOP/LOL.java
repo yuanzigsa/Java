@@ -2,6 +2,6 @@ package OOP;
 
 public class LOL extends Game {
     public void play(){
-        System.out.println("ä¸Šç›–ä¼¦ï¼Œå¿«ä¹å„¿ç«¥åŠ«ï¼Œæ‹œæ‹œ");
+        System.out.println("ÉÏ¸ÇÂ×£¬¿ìÀÖ¶ùÍ¯½Ù£¬°İ°İ");
     }
 }

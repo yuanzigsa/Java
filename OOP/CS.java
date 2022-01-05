@@ -2,6 +2,6 @@ package OOP;
 
 public class CS extends Game{
     public void play(){
-        System.out.println("æ²¡æœ‰8å€é•œï¼Œç…§æ ·å›¢ç­");
+        System.out.println("Ã»ÓĞ8±¶¾µ£¬ÕÕÑùÍÅÃğ");
     }
 }
