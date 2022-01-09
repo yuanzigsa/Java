@@ -1,55 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="88aa02d7-659f-432b-ac28-c1865bf00b42" name="Changes" comment="12">
+    <list default="true" id="88aa02d7-659f-432b-ac28-c1865bf00b42" name="Changes" comment="0">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GitHub/.idea/Java.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GitHub/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GitHub/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GitHub/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GitHub/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GitHub/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GitHub/BooleanEqual.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GitHub/Car.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GitHub/Class/Car.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GitHub/Class/Motorcade.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GitHub/Class/UseMotorcade.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GitHub/Class/UserCarDefaultValue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GitHub/CountScripComplex.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GitHub/FindBiggest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GitHub/FindBiggestInSchool.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GitHub/ForceConvert.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GitHub/GitHub.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GitHub/HelloWorld.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GitHub/HelloWorldPlus.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GitHub/Hero.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GitHub/Method/Car.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GitHub/Method/Client.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GitHub/Method/DaXia.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GitHub/Method/Hero.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GitHub/Method/JiangShi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GitHub/Method/Max.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GitHub/Method/MethodTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GitHub/Method/TestCar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GitHub/Method/TestParameterOfMethod.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GitHub/Method/TestReturnValue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GitHub/Method/ZhiWu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GitHub/OOP/CS.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GitHub/OOP/Client.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GitHub/OOP/DNF.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GitHub/OOP/Game.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GitHub/OOP/Gold.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GitHub/OOP/LOL.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GitHub/OOP/Player.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GitHub/OOP/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GitHub/OOP/Valuable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GitHub/PriceAndAmount.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GitHub/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GitHub/SettleAccountsUsingFor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GitHub/UsingChar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GitHub/VariableTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GitHub/YangHuita.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GitHub/p1.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -177,7 +130,7 @@
       <workItem from="1641474579289" duration="1799000" />
       <workItem from="1641550268822" duration="642000" />
       <workItem from="1641647336545" duration="4057000" />
-      <workItem from="1641728169785" duration="932000" />
+      <workItem from="1641728169785" duration="2217000" />
     </task>
     <task id="LOCAL-00001" summary="12">
       <created>1641648857699</created>
@@ -207,7 +160,14 @@
       <option name="project" value="LOCAL" />
       <updated>1641728473250</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="0">
+      <created>1641729152773</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1641729152773</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -226,6 +186,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="12" />
-    <option name="LAST_COMMIT_MESSAGE" value="12" />
+    <MESSAGE value="0" />
+    <option name="LAST_COMMIT_MESSAGE" value="0" />
   </component>
 </project>
