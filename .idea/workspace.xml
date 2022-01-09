@@ -3,6 +3,53 @@
   <component name="ChangeListManager">
     <list default="true" id="88aa02d7-659f-432b-ac28-c1865bf00b42" name="Changes" comment="12">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GitHub/.idea/Java.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GitHub/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GitHub/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GitHub/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GitHub/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GitHub/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GitHub/BooleanEqual.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GitHub/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GitHub/Class/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GitHub/Class/Motorcade.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GitHub/Class/UseMotorcade.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GitHub/Class/UserCarDefaultValue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GitHub/CountScripComplex.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GitHub/FindBiggest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GitHub/FindBiggestInSchool.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GitHub/ForceConvert.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GitHub/GitHub.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GitHub/HelloWorld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GitHub/HelloWorldPlus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GitHub/Hero.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GitHub/Method/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GitHub/Method/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GitHub/Method/DaXia.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GitHub/Method/Hero.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GitHub/Method/JiangShi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GitHub/Method/Max.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GitHub/Method/MethodTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GitHub/Method/TestCar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GitHub/Method/TestParameterOfMethod.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GitHub/Method/TestReturnValue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GitHub/Method/ZhiWu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GitHub/OOP/CS.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GitHub/OOP/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GitHub/OOP/DNF.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GitHub/OOP/Game.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GitHub/OOP/Gold.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GitHub/OOP/LOL.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GitHub/OOP/Player.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GitHub/OOP/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GitHub/OOP/Valuable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GitHub/PriceAndAmount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GitHub/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GitHub/SettleAccountsUsingFor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GitHub/UsingChar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GitHub/VariableTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GitHub/YangHuita.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GitHub/p1.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +65,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="efab7575-53ae-43ed-98e9-341d00628efc" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -35,8 +85,14 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="Application.Test">
+  <component name="Push.Settings">
+    <force-push-targets>
+      <force-push-target remote-path="origin" branch="main" />
+    </force-push-targets>
+  </component>
+  <component name="RunManager" selected="Application.Client">
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="OOP.Client" />
       <module name="GitHub" />
@@ -99,8 +155,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test" />
         <item itemvalue="Application.Client" />
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.YangHuita" />
         <item itemvalue="Application.UsingChar" />
         <item itemvalue="Application.HelloWorld" />
@@ -121,6 +177,7 @@
       <workItem from="1641474579289" duration="1799000" />
       <workItem from="1641550268822" duration="642000" />
       <workItem from="1641647336545" duration="4057000" />
+      <workItem from="1641728169785" duration="932000" />
     </task>
     <task id="LOCAL-00001" summary="12">
       <created>1641648857699</created>
@@ -136,7 +193,21 @@
       <option name="project" value="LOCAL" />
       <updated>1641712474430</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="12">
+      <created>1641728409253</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1641728409253</updated>
+    </task>
+    <task id="LOCAL-00004" summary="12">
+      <created>1641728473250</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1641728473250</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
