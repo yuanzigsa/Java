@@ -1,5 +1,7 @@
 package OOP;
 
+import java.util.Scanner;
+
 public class Client {
     public static void main(String[] args) {
         Game game1 = new DNF(); //向上转型
@@ -10,5 +12,6 @@ public class Client {
         p.happy(game1);
         p.happy(game2);
         p.happy(game3);
+
     }
 }
