@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="88aa02d7-659f-432b-ac28-c1865bf00b42" name="Changes" comment="0">
+    <list default="true" id="88aa02d7-659f-432b-ac28-c1865bf00b42" name="Changes" comment="1">
+      <change afterPath="$PROJECT_DIR$/Equals/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Equals/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Instanceof/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Instanceof/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Yichang/ThrowsThrow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Yichang/TryCatch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/GitHub/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GitHub/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/GitHub/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GitHub/README.md" afterDir="false" />
     </list>
@@ -57,7 +62,7 @@
       <force-push-target remote-path="origin" branch="main" />
     </force-push-targets>
   </component>
-  <component name="RunManager" selected="Application.TryCatch">
+  <component name="RunManager" selected="Application.Cat (1)">
     <configuration name="Cat (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Instanceof.Cat" />
       <module name="GitHub" />
@@ -138,8 +143,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TryCatch" />
         <item itemvalue="Application.Cat (1)" />
+        <item itemvalue="Application.TryCatch" />
         <item itemvalue="Application.Test (2)" />
         <item itemvalue="Application.Cat" />
         <item itemvalue="Application.Test (1)" />
@@ -162,7 +167,8 @@
       <workItem from="1641647336545" duration="4057000" />
       <workItem from="1641728169785" duration="10403000" />
       <workItem from="1641795052862" duration="5212000" />
-      <workItem from="1641891593029" duration="3994000" />
+      <workItem from="1641891593029" duration="4616000" />
+      <workItem from="1641904176319" duration="193000" />
     </task>
     <task id="LOCAL-00001" summary="12">
       <created>1641648857699</created>
@@ -220,7 +226,14 @@
       <option name="project" value="LOCAL" />
       <updated>1641797391158</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="2022年1月11日20:22:32">
+      <created>1641903765673</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1641903765673</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -240,6 +253,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="12" />
     <MESSAGE value="0" />
-    <option name="LAST_COMMIT_MESSAGE" value="0" />
+    <MESSAGE value="2022年1月11日20:22:32" />
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
   </component>
 </project>
