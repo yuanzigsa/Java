@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="88aa02d7-659f-432b-ac28-c1865bf00b42" name="Changes" comment="1">
-      <change afterPath="$PROJECT_DIR$/Equals/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Equals/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Instanceof/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Instanceof/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Yichang/ThrowsThrow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Yichang/TryCatch.java" afterDir="false" />
+    <list default="true" id="88aa02d7-659f-432b-ac28-c1865bf00b42" name="Changes" comment="up">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/GitHub/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GitHub/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/GitHub/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GitHub/README.md" afterDir="false" />
     </list>
@@ -54,21 +49,21 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../01" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
   <component name="Push.Settings">
     <force-push-targets>
       <force-push-target remote-path="origin" branch="main" />
     </force-push-targets>
   </component>
-  <component name="RunManager" selected="Application.Cat (1)">
-    <configuration name="Cat (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Instanceof.Cat" />
+  <component name="RunManager" selected="Application.For">
+    <configuration name="Count100" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Method.Count100" />
       <module name="GitHub" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Instanceof.*" />
+          <option name="PATTERN" value="Method.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,12 +71,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Cat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Equals.Cat" />
+    <configuration name="FangFa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Method.FangFa" />
       <module name="GitHub" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Equals.*" />
+          <option name="PATTERN" value="Method.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OopExp2.Test" />
+    <configuration name="FangFaChongZai" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Method.FangFaChongZai" />
       <module name="GitHub" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OopExp2.*" />
+          <option name="PATTERN" value="Method.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Equals.Test" />
+    <configuration name="For" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JiChu.For" />
       <module name="GitHub" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Equals.*" />
+          <option name="PATTERN" value="JiChu.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TryCatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Yichang.TryCatch" />
+    <configuration name="MethodTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Method.MethodTest" />
       <module name="GitHub" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Yichang.*" />
+          <option name="PATTERN" value="Method.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Cat (1)" />
-        <item itemvalue="Application.TryCatch" />
-        <item itemvalue="Application.Test (2)" />
-        <item itemvalue="Application.Cat" />
-        <item itemvalue="Application.Test (1)" />
+        <item itemvalue="Application.For" />
+        <item itemvalue="Application.FangFaChongZai" />
+        <item itemvalue="Application.FangFa" />
+        <item itemvalue="Application.MethodTest" />
+        <item itemvalue="Application.Count100" />
       </list>
     </recent_temporary>
   </component>
@@ -169,6 +164,11 @@
       <workItem from="1641795052862" duration="5212000" />
       <workItem from="1641891593029" duration="4616000" />
       <workItem from="1641904176319" duration="193000" />
+      <workItem from="1641904824711" duration="1852000" />
+      <workItem from="1641911506809" duration="27000" />
+      <workItem from="1641995010402" duration="1919000" />
+      <workItem from="1641997901421" duration="213000" />
+      <workItem from="1642081129100" duration="3158000" />
     </task>
     <task id="LOCAL-00001" summary="12">
       <created>1641648857699</created>
@@ -233,7 +233,14 @@
       <option name="project" value="LOCAL" />
       <updated>1641903765673</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="up">
+      <created>1641904865398</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1641904865398</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -255,6 +262,7 @@
     <MESSAGE value="0" />
     <MESSAGE value="2022年1月11日20:22:32" />
     <MESSAGE value="1" />
-    <option name="LAST_COMMIT_MESSAGE" value="1" />
+    <MESSAGE value="up" />
+    <option name="LAST_COMMIT_MESSAGE" value="up" />
   </component>
 </project>

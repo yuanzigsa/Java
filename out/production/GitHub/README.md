@@ -5,6 +5,10 @@ by元子 2021年10月1日
 
 # ![img](http://yuanzigsa.com/wp-content/uploads/2021/10/tidfdds-1024x851.jpg)
 
+[TOC]
+
+
+
 # Chapter1：初始Java
 
 
@@ -192,30 +196,24 @@ by元子 2021年10月1日
 
 # Chapter2：面向对象
 
+#### 方法
+
+定义：对功能或者动作的封装
+
 ```java
-package Method;
-
-public class TestReturnValue {
-    public static void main(String[] args){
-        Car myCar = new Car();
-        myCar.raiseSpeed(70);
-        boolean isOverspeed = myCar.isOverspeed();
-        if(isOverspeed){
-            System.out.println("骑车超速行驶中");
-        }else{
-            System.out.println("汽车没有超速");
-        }
-        myCar.raiseSpeed(70);
-        isOverspeed = myCar.isOverspeed();
-        if (isOverspeed){
-            System.out.println("汽车超速行驶中");
-        }else {
-            System.out.println("汽车没有超速");
-        }
-    }
+public static void 方法名(){
+	方法体
 }
-
+方法名()
 ```
+
+public static void 照着写
+
+方法体：这件事儿到底该怎么做
+
+不可以在方法里定义方法
+
+
 
 
 
@@ -229,53 +227,54 @@ public class TestReturnValue {
 
 #### 抽象
 
-在java中只声明，不实现
+- 在java中只声明，不实现
 
-抽象方法：使用abstract来修饰，不可有方法体，直接用分号来结束即可
+- 抽象方法：使用abstract来修饰，不可有方法体，直接用分号来结束即可
 
-抽象类：如果有一个类中有抽象方法，这个类必须是一个抽象类
+- 抽象类：如果有一个类中有抽象方法，这个类必须是一个抽象类
 
-特点：
+- 特点：
 
-1. 抽象类不可以创建对象
-2. 抽象类的子类，必须重写父类中的抽象方法，否则，子类必须也是抽象类
+	1. 抽象类不可以创建对象
+	2. 抽象类的子类，必须重写父类中的抽象方法，否则，子类必须也是抽象类
 
-通过抽象类可以强制要求子类中必须有哪些方法
+- 通过抽象类可以强制要求子类中必须有哪些方法
 
-小知识点：抽象类中可以有正常的方法
+- 小知识点：抽象类中可以有正常的方法
 
 #### 接口
 
-接口实际上是一种特殊的抽象类
+- 接口实际上是一种特殊的抽象类
 
-接口中所有的方法都是抽象方法
+- 接口中所有的方法都是抽象方法
 
-接口使用interface来声明
+- 接口使用interface来声明
 
-类只是简单继承
+- 类只是简单继承
 
-接口也具有多态性 
+- 接口也具有多态性 
 
-接口可以把很多不相关的内容进行整合
+- 接口可以把很多不相关的内容进行整合
 
-特点
+- 特点
 
-1. 接口中所有的方法都是抽象分方法，都是公开的
-2. 接口中所有的变量都是全局静态常量
+   1. 接口中所有的方法都是抽象分方法，都是公开的
 
+   2. 接口中所有的变量都是全局静态常量
 
+      
 
 #### 成员变量的初始值
 
-java中的所有变量必须先声明，后赋值才能使用
+- java中的所有变量必须先声明，后赋值才能使用
 
-java中的成员变量，在创建对象的时候，都会执行一次初始化操作，都会给一个默认值
+- java中的成员变量，在创建对象的时候，都会执行一次初始化操作，都会给一个默认值
 
 
 
-基本数据类型默认值都是0 包括bloolean false=0
+- 基本数据类型默认值都是0 包括bloolean false=0
 
-引用数据类型：null（null表示空，什么都没有，占位）
+- 引用数据类型：null（null表示空，什么都没有，占位）
 
 
 
@@ -369,3 +368,9 @@ Throws 表示方法准备要抛出来一个异常
 产生 的错误尽可能的自己处理，少向外抛出异常
 
 Throw表示向外抛出一个异常
+
+
+
+#### 自定义异常
+
+直接继承Exception或者RuntimeException来实现自定义异常
