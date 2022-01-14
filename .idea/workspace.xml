@@ -1,35 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="88aa02d7-659f-432b-ac28-c1865bf00b42" name="Changes" comment="up">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BooleanEqual.java" beforeDir="false" afterPath="$PROJECT_DIR$/JiChu/BooleanEqual.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Car.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CountScripComplex.java" beforeDir="false" afterPath="$PROJECT_DIR$/JiChu/CountScripComplex.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FindBiggest.java" beforeDir="false" afterPath="$PROJECT_DIR$/JiChu/FindBiggest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FindBiggestInSchool.java" beforeDir="false" afterPath="$PROJECT_DIR$/JiChu/FindBiggestInSchool.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ForceConvert.java" beforeDir="false" afterPath="$PROJECT_DIR$/JiChu/ForceConvert.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorldPlus.java" beforeDir="false" afterPath="$PROJECT_DIR$/JiChu/HelloWorldPlus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PriceAndAmount.java" beforeDir="false" afterPath="$PROJECT_DIR$/JiChu/PriceAndAmount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SettleAccountsUsingFor.java" beforeDir="false" afterPath="$PROJECT_DIR$/JiChu/SettleAccountsUsingFor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UsingChar.java" beforeDir="false" afterPath="$PROJECT_DIR$/JiChu/UsingChar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VariableTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/YangHuita.java" beforeDir="false" afterPath="$PROJECT_DIR$/JiChu/YangHuita.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Yichang/GenderException.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/Yichang/GenderException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Yichang/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/Yichang/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Yichang/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/Yichang/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Yichang/ThrowsThrow.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/Yichang/ThrowsThrow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Yichang/TryCatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/Yichang/TryCatch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Yichang/ZaoTangZi.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/Yichang/ZaoTangZi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GitHub/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GitHub/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GitHub/Yichang/GenderException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GitHub/Yichang/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GitHub/Yichang/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GitHub/Yichang/ThrowsThrow.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GitHub/Yichang/TryCatch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GitHub/Yichang/ZaoTangZi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/p1.java" beforeDir="false" />
-    </list>
+    <list default="true" id="88aa02d7-659f-432b-ac28-c1865bf00b42" name="Changes" comment="up" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -192,7 +164,7 @@
       <workItem from="1641995010402" duration="1919000" />
       <workItem from="1641997901421" duration="213000" />
       <workItem from="1642081129100" duration="3158000" />
-      <workItem from="1642148681542" duration="8540000" />
+      <workItem from="1642148681542" duration="9139000" />
     </task>
     <task id="LOCAL-00001" summary="12">
       <created>1641648857699</created>
