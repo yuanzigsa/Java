@@ -1,3 +1,5 @@
+package JiChu;
+
 public class ForceConvert{
 	public static void main(String[] args){
 	double doubleValue = 9.9;

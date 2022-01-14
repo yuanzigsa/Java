@@ -1,3 +1,5 @@
+package JiChu;
+
 public class FindBiggestInSchool{
 	public static void main(String[] args){
 		int gradeCount = 5; //全校有5个年级

@@ -1,3 +1,5 @@
+package JiChu;
+
 public class FindBiggest{
 	public static void main(String[] args){
 		int arraySize = 55; //存放数组大小的int变量

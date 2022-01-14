@@ -1,3 +1,5 @@
+package JiChu;
+
 public class YangHuita{
 	public static void main(String[] args){
 		int levelCount = 10; //程序生成的杨辉三角层数

@@ -1,4 +1,4 @@
-package Yichang;
+package OOP.Yichang;
 
 public class Person {
     String name;

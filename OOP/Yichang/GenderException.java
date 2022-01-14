@@ -1,4 +1,4 @@
-package Yichang;
+package OOP.Yichang;
 
 public class GenderException extends Exception {
     //自己定义的异常必须继承Exceotion或者RuntimeException

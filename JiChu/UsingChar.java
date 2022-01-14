@@ -1,3 +1,5 @@
+package JiChu;
+
 public class UsingChar {
 	public static void main(String[] args){
 		char charA;//创建一个char变量

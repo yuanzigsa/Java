@@ -1,3 +1,5 @@
+package JiChu;
+
 public class PriceAndAmount{
 	public static void main(String[] args){
 		int price = -5; //创建两double变量

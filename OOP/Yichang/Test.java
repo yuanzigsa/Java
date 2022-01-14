@@ -1,4 +1,4 @@
-package Yichang;
+package OOP.Yichang;
 
 public class Test {
     public static void main(String[] args) throws GenderException {
