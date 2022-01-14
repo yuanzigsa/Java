@@ -2,8 +2,7 @@
 
 by元子 2021年10月1日
 
-
-# ![img](http://yuanzigsa.com/wp-content/uploads/2021/10/tidfdds-1024x851.jpg)
+![](http://yuanzigsa.com/wp-content/uploads/2022/01/zard.jpg)
 
 [TOC]
 
@@ -25,15 +24,19 @@ by元子 2021年10月1日
 
 #### 区别
 
-- JVM(Java Virtual Machine):java 虚拟机，用于保证 java 的跨平台的特性。java 语言是跨平台， jvm 不是跨平台的。
-
-- JRE(Java Runtime Environment):java 的运行环境 ,包括 jvm+java 的核心类库。
-
-- JDK(Java Development Kit):java 的开发工具 ,包括 jre+开发工具
-  - bin:最主要的是编译器(javac.exe)
-    include:java和JVM交互用的头文件
-    lib:类库
-    jre:java运行环境
+- JVM
+- java 虚拟机，用于保证java的跨平台特性，不过 jvm 不是跨平台的。
+- JRE
+  - java 的运行环境 ,包括 jvm+java 的核心类库。
+- JDK
+  - java 的开发工具 ,包括 jre+开发工具
+- 其它
+  - bin
+    - 最主要的是编译器(javac.exe)
+  - include
+    - java和JVM交互用的头文件
+  - lib
+    - 类库
 
 #### 联系
 
