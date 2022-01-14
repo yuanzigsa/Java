@@ -280,13 +280,13 @@ public static void 照着写
 
 #### object
 
-万事万物皆为对象
+- 万事万物皆为对象
 
-所有的东西都是对象
+- 所有的东西都是对象
 
-在java中所有的类都要继承object
+- 在java中所有的类都要继承object
 
-object是一个类，所有类的根
+- object是一个类，所有类的根
 
 
 
@@ -378,4 +378,94 @@ Throw表示向外抛出一个异常
 
 
 # Chapter3：核心编程
+
+
+
+#### 常用api概述
+
+
+
+#### Math数学类
+
+- abs（）：绝对值
+
+- max（）：最大值
+
+- min（）：最小值
+
+- pow（）：求次幂
+
+- round（）：四舍五入
+
+- sqrt（）：求平方根
+
+  
+
+  JAVA官方api文档：https://docs.oracle.com/javase/8/docs/api/
+
+- 求一元二次方程
+
+```java
+import java.sql.SQLOutput;
+import java.util.Scanner;
+
+public class TestMath {
+    public static void main(String[] args) {
+        
+        System.out.println("计算一元二次方程的解");
+        Scanner sc = new Scanner(System.in);
+
+        System.out.println("请输入a：");
+        double a = sc.nextInt();
+
+        System.out.println("请输入b：");
+        double b =sc.nextInt();
+
+        System.out.println("请输入c：");
+        double c = sc.nextInt();
+
+        double dt = Math.pow(b,2) - 4*a*c;
+        if (dt <0 ){
+            System.out.println("无解");
+        }else if(dt == 0){
+            System.out.println("此方程有一个解");
+            double x = (-b) / (2*a);
+            System.out.println("解x="+x);
+        }else{
+            System.out.println("此方程有两个解");
+            double x1 = (-b+Math.sqrt(dt))/(2*a);
+            double x2 = (-b-Math.sqrt(dt))/(2*a);
+
+        }
+
+    }
+}
+
+```
+
+
+
+#### 基本数据类型包装类
+
+- byte -> Byte
+
+- short ->Short
+
+- int -> Integer
+
+- long -> Long
+
+- float ->Float
+
+
+
+#### Java中的时间
+
+- Date 日期
+  - new Date（）可以获取到系统时间
+  - getTIME（）能获取到时间的long的表示形式，可以用来计算时间差
+
+- Clender 日历
+  - get（）获取到时间的某一个部分
+  - set（）设置时间->计算器
 

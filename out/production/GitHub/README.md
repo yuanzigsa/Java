@@ -374,3 +374,32 @@ Throw表示向外抛出一个异常
 #### 自定义异常
 
 直接继承Exception或者RuntimeException来实现自定义异常
+
+
+
+# Chapter3：核心编程
+
+
+
+#### 常用api概述
+
+
+
+#### Math数学类
+
+- abs（）：绝对值
+
+- max（）：最大值
+
+- min（）：最小值
+
+- pow（）：求次幂
+
+- round（）：四舍五入
+
+- sqrt（）：求平方根
+
+  
+
+  JAVA官方api文档：https://docs.oracle.com/javase/8/docs/api/
+
