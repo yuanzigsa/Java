@@ -1,4 +1,4 @@
-package OopExp1;
+package OOP.OopExp1;
 
 public abstract class AbstractDao implements IDAO {
     //void connect
