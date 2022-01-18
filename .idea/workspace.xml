@@ -3,17 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="88aa02d7-659f-432b-ac28-c1865bf00b42" name="Changes" comment="up">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OopExp1/AbstractDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/OopExp1/AbstractDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OopExp1/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/OopExp1/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OopExp1/IDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/OopExp1/IDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OopExp1/MysqlDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/OopExp1/MysqlDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OopExp1/OracleDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/OopExp1/OracleDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OopExp2/Child.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OopExp2/Person.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OopExp2/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/GitHub/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GitHub/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GitHub/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GitHub/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +55,20 @@
       <force-push-target remote-path="origin" branch="main" />
     </force-push-targets>
   </component>
-  <component name="RunManager" selected="Application.TimeFormatFanZhuan">
+  <component name="RunManager" selected="Application.ShiJianCha">
+    <configuration name="ShiJianCha" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Api.ShiJianCha" />
+      <module name="GitHub" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="OOP.Yichang.Test" />
       <module name="GitHub" />
@@ -81,19 +84,6 @@
     </configuration>
     <configuration name="TestMath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Api.TestMath" />
-      <module name="GitHub" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Api.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestShuJu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Api.TestShuJu" />
       <module name="GitHub" />
       <extension name="coverage">
         <pattern>
@@ -146,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ShiJianCha" />
         <item itemvalue="Application.TimeFormatFanZhuan" />
         <item itemvalue="Application.TimeFormat" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.TestMath" />
-        <item itemvalue="Application.TestShuJu" />
       </list>
     </recent_temporary>
   </component>
@@ -180,6 +170,7 @@
       <workItem from="1642148681542" duration="9396000" />
       <workItem from="1642251256241" duration="10000" />
       <workItem from="1642433148296" duration="1374000" />
+      <workItem from="1642509703249" duration="1630000" />
     </task>
     <task id="LOCAL-00001" summary="12">
       <created>1641648857699</created>
