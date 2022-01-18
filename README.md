@@ -424,3 +424,13 @@ public class TestMath {
 
 
 
+### String详解
+
+- “字符串”
+- 字符串是一个不可变的数据类型，会返回新字符串而不是在原有基础上修改
+
+### StringBuffer和StringBuiler
+
+-  String是一个不可变的数据类型
+- StringBuffer和StringBuilder，可变字符串
+
