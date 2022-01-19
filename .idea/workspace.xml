@@ -54,7 +54,20 @@
       <force-push-target remote-path="origin" branch="main" />
     </force-push-targets>
   </component>
-  <component name="RunManager" selected="Application.StringBuilderTest">
+  <component name="RunManager" selected="Application.CeShouSu">
+    <configuration name="CeShouSu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Api.CeShouSu" />
+      <module name="GitHub" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ShiJianCha" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Api.ShiJianCha" />
       <module name="GitHub" />
@@ -94,19 +107,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TimeFormat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Api.TimeFormat" />
-      <module name="GitHub" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Api.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="TimeFormatFanZhuan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Api.TimeFormatFanZhuan" />
       <module name="GitHub" />
@@ -135,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CeShouSu" />
         <item itemvalue="Application.StringBuilderTest" />
         <item itemvalue="Application.StringDetails" />
         <item itemvalue="Application.ShiJianCha" />
         <item itemvalue="Application.TimeFormatFanZhuan" />
-        <item itemvalue="Application.TimeFormat" />
       </list>
     </recent_temporary>
   </component>
@@ -170,6 +170,7 @@
       <workItem from="1642251256241" duration="10000" />
       <workItem from="1642433148296" duration="1374000" />
       <workItem from="1642509703249" duration="5527000" />
+      <workItem from="1642604015620" duration="1580000" />
     </task>
     <task id="LOCAL-00001" summary="12">
       <created>1641648857699</created>
