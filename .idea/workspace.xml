@@ -4,6 +4,9 @@
     <list default="true" id="88aa02d7-659f-432b-ac28-c1865bf00b42" name="Changes" comment="up">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RongQi/RonngQiLianXi1.java" beforeDir="false" afterPath="$PROJECT_DIR$/RongQi/RongQiLianXi1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GitHub/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GitHub/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GitHub/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GitHub/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,22 +58,9 @@
       <force-push-target remote-path="origin" branch="main" />
     </force-push-targets>
   </component>
-  <component name="RunManager" selected="Application.RonngQiLianXi1">
-    <configuration name="CeShouSu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Api.CeShouSu" />
-      <module name="GitHub" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Api.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RongQi.ListTest" />
+  <component name="RunManager" selected="Application.RongQiLianXi3">
+    <configuration name="CollectionsGongJuLei" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RongQi.CollectionsGongJuLei" />
       <module name="GitHub" />
       <extension name="coverage">
         <pattern>
@@ -82,8 +72,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MapRongQi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RongQi.MapRongQi" />
+    <configuration name="FanXing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RongQi.FanXing" />
       <module name="GitHub" />
       <extension name="coverage">
         <pattern>
@@ -95,8 +85,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RonngQiLianXi1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RongQi.RonngQiLianXi1" />
+    <configuration name="RongQiLianXi2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RongQi.RongQiLianXi2" />
       <module name="GitHub" />
       <extension name="coverage">
         <pattern>
@@ -108,8 +98,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SetTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RongQi.SetTest" />
+    <configuration name="RongQiLianXi3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RongQi.RongQiLianXi3" />
+      <module name="GitHub" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="RongQi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZengQaingFor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RongQi.ZengQaingFor" />
       <module name="GitHub" />
       <extension name="coverage">
         <pattern>
@@ -136,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RonngQiLianXi1" />
-        <item itemvalue="Application.MapRongQi" />
-        <item itemvalue="Application.SetTest" />
-        <item itemvalue="Application.ListTest" />
-        <item itemvalue="Application.CeShouSu" />
+        <item itemvalue="Application.RongQiLianXi3" />
+        <item itemvalue="Application.RongQiLianXi2" />
+        <item itemvalue="Application.CollectionsGongJuLei" />
+        <item itemvalue="Application.ZengQaingFor" />
+        <item itemvalue="Application.FanXing" />
       </list>
     </recent_temporary>
   </component>
