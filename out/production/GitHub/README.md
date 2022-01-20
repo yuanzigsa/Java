@@ -338,7 +338,8 @@ try{
 
 # Chapter3：核心编程
 
-### 常用api概述
+## 常用api
+### 概述
 
 
 
@@ -433,4 +434,20 @@ public class TestMath {
 
 -  String是一个不可变的数据类型
 - StringBuffer和StringBuilder，可变字符串
+
+## 容器
+
+### 容器的概述
+
+- 定义
+  - 能装对象的对象
+- List线性结构，可变长度
+- Set集合，非线性，去除重复
+- Map映射，存储的时候，以可以：value的形式存储数据，名字：电话
+- 在java中的所有集合的根：collection接口
+
+
+
+
+
 
