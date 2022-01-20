@@ -491,3 +491,37 @@ public class TestMath {
   - keySet（）把map中的所有的key打包成set集合返回
   - get（key）通过key查询value
 
+### 迭代器Iterator
+
+- set
+- 迭代
+  - 一个一个的往出拿
+- 下一个
+- next（）
+  - 下一个
+- hasNext（）
+  - 判断是否存在下一个元素
+
+### 泛型
+
+- 规范器内的数据类型
+
+- 容器<数据类型>
+- 碗筷<盐>
+- Set和List泛型规范是一样的
+- Map有一点不一样
+
+### 增强For
+
+- 语法
+
+  ```java
+  for(类型 变量:数组或集合){
+  	循环体
+  }
+  ```
+
+- 用途
+
+  - 循环遍历数组
+
