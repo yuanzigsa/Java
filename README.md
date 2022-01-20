@@ -446,8 +446,48 @@ public class TestMath {
 - Map映射，存储的时候，以可以：value的形式存储数据，名字：电话
 - 在java中的所有集合的根：collection接口
 
+### List
 
+- ArrayList
+  - 列表
+  - 应用最多，查询方便
+  - 列表可以放置重复的数组，按照我们存储的顺序进行存储
+- LinkedList
+  - 链表
 
+- 常用操作
+  - add（）添加元素
+  - remove（）删除元素
+  - size（）列表的大小（列表中装了多少个元素）
+  - get（i）从列表中获取某个元素
+  - contains（）判断容器中是否有xxx东西
 
+- 遍历列表
 
+### Set集合
+
+- HashSet
+  - 无序 乱的 无重复
+- TreeSet
+  - 默认排序 不重复
+
+-  set的操作
+  - add（）添加元素
+  - remove（）删除元素
+  - size（）set中的元素的个数
+
+### Map容器
+
+-  HashMap
+  - 不排序
+- TreeMap
+  - 排序
+- map的操作
+  - put（key,value）存储数据
+  - remove（key）删除数据
+  - size（）map存储了多少个键值对
+  - containsKey（）判断map是否包含了某个key
+  - 如果出现了相同的key，原来的数据会被替代
+  - keySet（）把map中的所有的key打包成set集合返回
+  - get（key）通过key查询value
 
