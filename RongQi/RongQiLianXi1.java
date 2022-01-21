@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-public class RonngQiLianXi1 {
+public class RongQiLianXi1 {
     public static void main(String[] args) {
         List li = new ArrayList();
         li.add("ÎäëøÀ¼");
