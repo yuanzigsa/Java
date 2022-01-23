@@ -52,13 +52,13 @@
       <force-push-target remote-path="origin" branch="main" />
     </force-push-targets>
   </component>
-  <component name="RunManager" selected="Application.FileTest">
-    <configuration name="CollectionsGongJuLei" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RongQi.CollectionsGongJuLei" />
+  <component name="RunManager" selected="Application.JieDianLiu">
+    <configuration name="FileTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IO.FileTest" />
       <module name="GitHub" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="RongQi.*" />
+          <option name="PATTERN" value="IO.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -66,8 +66,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FileTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IO.FileTest" />
+    <configuration name="JieDianLiu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IO.JieDianLiu" />
+      <module name="GitHub" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="IO.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MoveFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IO.MoveFile" />
       <module name="GitHub" />
       <extension name="coverage">
         <pattern>
@@ -105,19 +118,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ZengQaingFor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RongQi.ZengQaingFor" />
-      <module name="GitHub" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="RongQi.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <module name="Java" />
       <method v="2">
@@ -133,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JieDianLiu" />
+        <item itemvalue="Application.MoveFile" />
         <item itemvalue="Application.FileTest" />
         <item itemvalue="Application.RongQiLianXi3" />
         <item itemvalue="Application.RongQiLianXi2" />
-        <item itemvalue="Application.CollectionsGongJuLei" />
-        <item itemvalue="Application.ZengQaingFor" />
       </list>
     </recent_temporary>
   </component>
@@ -169,7 +169,8 @@
       <workItem from="1642433148296" duration="1374000" />
       <workItem from="1642509703249" duration="5527000" />
       <workItem from="1642604015620" duration="1580000" />
-      <workItem from="1642859930987" duration="356000" />
+      <workItem from="1642859930987" duration="4129000" />
+      <workItem from="1642946023697" duration="942000" />
     </task>
     <task id="LOCAL-00001" summary="12">
       <created>1641648857699</created>
