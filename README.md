@@ -594,3 +594,38 @@ public class TestMath {
     - BufferedOutputStream
     - BufferedReader 读取文本文件最好的方式
     - BufferedWriter
+
+### 转换流
+
+- 字节流>字符流
+  - inputStreamReader
+  - OutputStreamWriter
+- Scanner sc = new Scanner（System.in）
+
+### 对象流
+
+- ObjectinputStream
+
+- ObjectoutputStream
+
+  ```java
+  Exception in thread "main" java.io.NotSerializableException: IO.Person
+  	at java.io.ObjectOutputStream.writeObject0(ObjectOutputStream.java:1184)
+  	at java.io.ObjectOutputStream.writeObject(ObjectOutputStream.java:348)
+  	at IO.ObjectLiu.main(ObjectLiu.java:11)
+  ```
+
+- 序列化
+
+  - 把一个对象转化成字节的过程
+
+- 反序列化
+
+  - 把字节转化成对象
+
+- 在java中只需要给类添加一个实现，Seriallizable，你就是可以被序列化的一个类了
+
+### 文件修改操作
+
+- 逐行读取文件中的内容，根据内容进行替换，把替换的结果记录在一个新闻建立，直到数据写入完毕，把源文件删除，把新文件的名字改成源文件的名字
+
