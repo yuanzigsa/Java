@@ -525,3 +525,72 @@ public class TestMath {
 
   - 循环遍历数组
 
+## IO流 
+
+### 概述
+
+- File文件操作
+- IO流
+  - IO：input&output
+  - System.in
+
+### File类
+
+- 定义
+  - 表示操作系统中的文件或者文件夹
+- 文件路径
+  - 绝对路径
+    - 从磁盘根目录
+  - 相对路径
+    - 相对于当前项目
+    - 文件夹/文件
+
+### IO流-节点流
+
+- 流的分类
+
+  - 按照读写的方向来讲，分为输入流和输出流（站在程序的角度去分析）
+  - 按照读写内容的单位俩将，分为字节流和字符流
+  - 按照流的功能不同，分为节点流和处理流
+
+- 流的家族体系
+
+  |        | 输入        | 输出         |
+  | ------ | ----------- | ------------ |
+  | 字节流 | InputStream | OutputStream |
+  | 字符流 | Reader      | Writer       |
+
+- 4个祖宗
+
+  - InputStream
+  - OutputStream
+  - Reader
+  - Writer
+
+- 抽象类
+
+- 文件流
+
+  - `FileInputStream 文件字节输入流
+  - FilOutputStream 
+  - FileReader
+  - FileWriter
+
+###　缓冲流
+
+- IO流
+  - 输入流，输出流
+  - 字节流，字符流
+  - 节点流，处理流
+- 处理流
+  - 缓冲流
+  - 转换流
+  - 对象流
+- 缓冲流
+  - 定义
+    - 带有缓冲区的数据流
+  - 分类
+    -  BufferedInputStream
+    - BufferedOutputStream
+    - BufferedReader 读取文本文件最好的方式
+    - BufferedWriter
