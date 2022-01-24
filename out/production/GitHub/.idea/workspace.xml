@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="88aa02d7-659f-432b-ac28-c1865bf00b42" name="Changes" comment="up" />
+    <list default="true" id="e3755ae2-ae7d-4a49-970f-e04c44c92097" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/IO/Convert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IO/ObjectLiu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IO/ObjectLiu2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IO/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IO/WenJianXiuGai.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IO/ZhuanHuanLiu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IO/唐诗三首.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GitHub/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GitHub/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GitHub/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GitHub/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,7 +20,6 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -18,43 +27,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitSEFilterConfiguration">
-    <file-type-list>
-      <filtered-out-file-type name="LOCAL_BRANCH" />
-      <filtered-out-file-type name="REMOTE_BRANCH" />
-      <filtered-out-file-type name="TAG" />
-      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
-    </file-type-list>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
-  <component name="GithubDefaultAccount">
-    <option name="defaultAccountId" value="efab7575-53ae-43ed-98e9-341d00628efc" />
-  </component>
-  <component name="MarkdownSettingsMigration">
-    <option name="stateVersion" value="1" />
-  </component>
-  <component name="ProjectId" id="23BlowmSOKrmg8DiFXLvOw5KUbi" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="1" id="Add" />
-  </component>
-  <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showLibraryContents" value="true" />
-  </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../01" />
-    <property name="settings.editor.selected.configurable" value="editing.templates" />
-  </component>
-  <component name="Push.Settings">
-    <force-push-targets>
-      <force-push-target remote-path="origin" branch="main" />
-    </force-push-targets>
-  </component>
-  <component name="RunManager" selected="Application.JieDianLiu">
-    <configuration name="FileTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IO.FileTest" />
+  <component name="RunManager" selected="Application.WenJianXiuGai">
+    <configuration name="Convert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IO.Convert" />
       <module name="GitHub" />
       <extension name="coverage">
         <pattern>
@@ -66,8 +44,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JieDianLiu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IO.JieDianLiu" />
+    <configuration name="ObjectLiu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IO.ObjectLiu" />
       <module name="GitHub" />
       <extension name="coverage">
         <pattern>
@@ -79,8 +57,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MoveFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IO.MoveFile" />
+    <configuration name="ObjectLiu2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IO.ObjectLiu2" />
       <module name="GitHub" />
       <extension name="coverage">
         <pattern>
@@ -92,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RongQiLianXi2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RongQi.RongQiLianXi2" />
+    <configuration name="WenJianXiuGai" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IO.WenJianXiuGai" />
       <module name="GitHub" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="RongQi.*" />
+          <option name="PATTERN" value="IO.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,155 +83,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RongQiLianXi3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RongQi.RongQiLianXi3" />
+    <configuration name="ZhuanHuanLiu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IO.ZhuanHuanLiu" />
       <module name="GitHub" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="RongQi.*" />
+          <option name="PATTERN" value="IO.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="Java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="Java" />
-      <option name="filePath" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.JieDianLiu" />
-        <item itemvalue="Application.MoveFile" />
-        <item itemvalue="Application.FileTest" />
-        <item itemvalue="Application.RongQiLianXi3" />
-        <item itemvalue="Application.RongQiLianXi2" />
+        <item itemvalue="Application.WenJianXiuGai" />
+        <item itemvalue="Application.ObjectLiu2" />
+        <item itemvalue="Application.ObjectLiu" />
+        <item itemvalue="Application.ZhuanHuanLiu" />
+        <item itemvalue="Application.Convert" />
       </list>
     </recent_temporary>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="88aa02d7-659f-432b-ac28-c1865bf00b42" name="Changes" comment="" />
-      <created>1641215574512</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1641215574512</updated>
-      <workItem from="1641215590758" duration="3631000" />
-      <workItem from="1641391462411" duration="1866000" />
-      <workItem from="1641431185543" duration="916000" />
-      <workItem from="1641474579289" duration="1799000" />
-      <workItem from="1641550268822" duration="642000" />
-      <workItem from="1641647336545" duration="4057000" />
-      <workItem from="1641728169785" duration="10403000" />
-      <workItem from="1641795052862" duration="5212000" />
-      <workItem from="1641891593029" duration="4616000" />
-      <workItem from="1641904176319" duration="193000" />
-      <workItem from="1641904824711" duration="1852000" />
-      <workItem from="1641911506809" duration="27000" />
-      <workItem from="1641995010402" duration="1919000" />
-      <workItem from="1641997901421" duration="213000" />
-      <workItem from="1642081129100" duration="3158000" />
-      <workItem from="1642148681542" duration="9396000" />
-      <workItem from="1642251256241" duration="10000" />
-      <workItem from="1642433148296" duration="1374000" />
-      <workItem from="1642509703249" duration="5527000" />
-      <workItem from="1642604015620" duration="1580000" />
-      <workItem from="1642859930987" duration="4129000" />
-      <workItem from="1642946023697" duration="942000" />
-    </task>
-    <task id="LOCAL-00001" summary="12">
-      <created>1641648857699</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1641648857699</updated>
-    </task>
-    <task id="LOCAL-00002" summary="12">
-      <created>1641712474430</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1641712474430</updated>
-    </task>
-    <task id="LOCAL-00003" summary="12">
-      <created>1641728409253</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1641728409253</updated>
-    </task>
-    <task id="LOCAL-00004" summary="12">
-      <created>1641728473250</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1641728473250</updated>
-    </task>
-    <task id="LOCAL-00005" summary="0">
-      <created>1641729152773</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1641729152773</updated>
-    </task>
-    <task id="LOCAL-00006" summary="0">
-      <created>1641730667633</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1641730667633</updated>
-    </task>
-    <task id="LOCAL-00007" summary="0">
-      <created>1641730672095</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1641730672095</updated>
-    </task>
-    <task id="LOCAL-00008" summary="0">
-      <created>1641797391158</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1641797391158</updated>
-    </task>
-    <task id="LOCAL-00009" summary="2022年1月11日20:22:32">
-      <created>1641903765673</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1641903765673</updated>
-    </task>
-    <task id="LOCAL-00010" summary="up">
-      <created>1641904865398</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1641904865398</updated>
-    </task>
-    <task id="LOCAL-00011" summary="up">
-      <created>1642149582660</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1642149582660</updated>
-    </task>
-    <option name="localTasksCounter" value="12" />
     <servers />
-  </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -265,13 +119,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="12" />
-    <MESSAGE value="0" />
-    <MESSAGE value="2022年1月11日20:22:32" />
-    <MESSAGE value="1" />
-    <MESSAGE value="up" />
-    <option name="LAST_COMMIT_MESSAGE" value="up" />
   </component>
 </project>
