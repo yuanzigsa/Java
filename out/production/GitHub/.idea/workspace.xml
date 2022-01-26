@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e3755ae2-ae7d-4a49-970f-e04c44c92097" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Socket/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Socket/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Socket/Client2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Socket/ReceThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Socket/SendThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Socket/Server2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,13 +48,13 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
-  <component name="RunManager" selected="Application.Server">
-    <configuration name="DeadLockTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MultiThreading.DeadLockTest" />
+  <component name="RunManager" selected="Application.Server2">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Socket.Client" />
       <module name="GitHub" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MultiThreading.*" />
+          <option name="PATTERN" value="Socket.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SyncAccountTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MultiThreading.SyncAccountTest" />
+    <configuration name="Server2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Socket.Server2" />
       <module name="GitHub" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MultiThreading.*" />
+          <option name="PATTERN" value="Socket.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Server2" />
+        <item itemvalue="Application.Client" />
         <item itemvalue="Application.Server" />
         <item itemvalue="Application.TicketTest" />
         <item itemvalue="Application.VideoTest" />
-        <item itemvalue="Application.DeadLockTest" />
-        <item itemvalue="Application.SyncAccountTest" />
       </list>
     </recent_temporary>
   </component>
@@ -133,7 +134,8 @@
       <updated>1643026735487</updated>
       <workItem from="1643026742407" duration="7231000" />
       <workItem from="1643109332952" duration="12784000" />
-      <workItem from="1643171798578" duration="948000" />
+      <workItem from="1643171798578" duration="3731000" />
+      <workItem from="1643179184372" duration="4208000" />
     </task>
     <servers />
   </component>
