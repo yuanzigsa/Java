@@ -2,11 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e3755ae2-ae7d-4a49-970f-e04c44c92097" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Socket/Client2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Socket/ReceThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Socket/SendThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Socket/Server2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chat/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chat/ReceThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chat/SendThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chat/server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Socket/Client3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Socket/Server3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Socket/UrlTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Socket/chat/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Socket/chat/ReceMsgThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Socket/chat/SendMsgThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Socket/chat/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Socket/chat/ServerMsgThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Socket/chat/SocketUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Socket/坂井泉水.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/GitHub/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GitHub/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/GitHub/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GitHub/README.md" afterDir="false" />
     </list>
@@ -50,13 +61,13 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
-  <component name="RunManager" selected="Application.Client2">
-    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Socket.Client" />
+  <component name="RunManager" selected="Application.Client (1)">
+    <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Socket.chat.Client" />
       <module name="GitHub" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Socket.*" />
+          <option name="PATTERN" value="Socket.chat.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -64,12 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Client2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Socket.Client2" />
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chat.Client" />
       <module name="GitHub" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Socket.*" />
+          <option name="PATTERN" value="Chat.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,7 +89,20 @@
       </method>
     </configuration>
     <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Socket.Server" />
+      <option name="MAIN_CLASS_NAME" value="Socket.chat.Server" />
+      <module name="GitHub" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Socket.chat.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UrlTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Socket.UrlTest" />
       <module name="GitHub" />
       <extension name="coverage">
         <pattern>
@@ -90,25 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Server2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Socket.Server2" />
+    <configuration name="server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chat.server" />
       <module name="GitHub" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Socket.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TicketTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MultiThreading.TicketTest" />
-      <module name="GitHub" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="MultiThreading.*" />
+          <option name="PATTERN" value="Chat.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Client2" />
-        <item itemvalue="Application.Server2" />
-        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.Client (1)" />
         <item itemvalue="Application.Server" />
-        <item itemvalue="Application.TicketTest" />
+        <item itemvalue="Application.UrlTest" />
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.server" />
       </list>
     </recent_temporary>
   </component>
@@ -138,6 +149,8 @@
       <workItem from="1643109332952" duration="12784000" />
       <workItem from="1643171798578" duration="3731000" />
       <workItem from="1643179184372" duration="4641000" />
+      <workItem from="1643199346790" duration="2104000" />
+      <workItem from="1643352526258" duration="17857000" />
     </task>
     <servers />
   </component>
@@ -157,5 +170,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Java$Client.ic" NAME="Client Coverage Results" MODIFIED="1643458663328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Chat.*</FILTER>
+    </SUITE>
   </component>
 </project>
