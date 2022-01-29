@@ -731,7 +731,14 @@ public class TestMath {
       - 维护成本低
 - 缺点
       - 没办法在客户端做大量的计算
-    
+  
 - Socket
 
   - 衔接应用程序和底层架构
+
+### UDP编程
+
+- 快递员
+  - DatagramPacket
+- 包裹
+  - DatagramPacker
