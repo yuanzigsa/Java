@@ -1,26 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e3755ae2-ae7d-4a49-970f-e04c44c92097" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Chat/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chat/ReceThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chat/SendThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chat/server.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Socket/Client3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Socket/Server3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Socket/UrlTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Socket/chat/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Socket/chat/ReceMsgThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Socket/chat/SendMsgThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Socket/chat/Server.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Socket/chat/ServerMsgThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Socket/chat/SocketUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Socket/坂井泉水.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GitHub/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GitHub/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GitHub/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GitHub/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="e3755ae2-ae7d-4a49-970f-e04c44c92097" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,6 +41,8 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager" selected="Application.Client (1)">
     <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -127,6 +110,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Client (1)" />
@@ -151,6 +147,9 @@
       <workItem from="1643179184372" duration="4641000" />
       <workItem from="1643199346790" duration="2104000" />
       <workItem from="1643352526258" duration="17857000" />
+      <workItem from="1644285606862" duration="610000" />
+      <workItem from="1644381598192" duration="1795000" />
+      <workItem from="1644393046092" duration="306000" />
     </task>
     <servers />
   </component>
@@ -167,6 +166,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
