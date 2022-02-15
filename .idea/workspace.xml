@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e3755ae2-ae7d-4a49-970f-e04c44c92097" name="Changes" comment="" />
+    <list default="true" id="e3755ae2-ae7d-4a49-970f-e04c44c92097" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/lib/mysql-connector-java-8.0.28.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GitHub.iml" beforeDir="false" afterPath="$PROJECT_DIR$/GitHub.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GitHub/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GitHub/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GitHub/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GitHub/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GitHub/Socket/chat/ServerMsgThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GitHub/Socket/chat/ServerMsgThread.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,8 +50,14 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="Application.Client (1)">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Java\lib" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.jdbcdemo">
     <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Socket.chat.Client" />
       <module name="GitHub" />
@@ -58,12 +71,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chat.Client" />
+    <configuration name="Server (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Socket.Server" />
       <module name="GitHub" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chat.*" />
+          <option name="PATTERN" value="Socket.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chat.server" />
+    <configuration name="jdbcdemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JdbcDemo.jdbcdemo" />
       <module name="GitHub" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chat.*" />
+          <option name="PATTERN" value="JdbcDemo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,26 +123,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.jdbcdemo" />
+        <item itemvalue="Application.Server (1)" />
         <item itemvalue="Application.Client (1)" />
         <item itemvalue="Application.Server" />
         <item itemvalue="Application.UrlTest" />
-        <item itemvalue="Application.Client" />
-        <item itemvalue="Application.server" />
       </list>
     </recent_temporary>
   </component>
@@ -149,7 +160,8 @@
       <workItem from="1643352526258" duration="17857000" />
       <workItem from="1644285606862" duration="610000" />
       <workItem from="1644381598192" duration="1795000" />
-      <workItem from="1644393046092" duration="306000" />
+      <workItem from="1644393046092" duration="4485000" />
+      <workItem from="1644810664783" duration="6226000" />
     </task>
     <servers />
   </component>
