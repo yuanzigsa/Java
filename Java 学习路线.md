@@ -94,7 +94,7 @@
 
 	- 文档
 
-		- ⭐ 菜鸟教程：https://www.runoob.com/java/java-tutorial.html（可以在线练习）
+		- ⭐ 菜鸟教程：https://www.runoob.com/java/java-tutorial.Html（可以在线练习）
 		- 廖雪峰 Java 教程：https://www.liaoxuefeng.com/wiki/1252599548343744
 		- IDEA 中文教程：https://github.com/judasn/IntelliJ-IDEA-Tutorial
 		- IDEA Mac 快捷键指南，地址：https://www.jianshu.com/p/454c71172c46
@@ -134,7 +134,7 @@
 
 	- 文档
 
-		- ⭐ 菜鸟教程：https://www.runoob.com/java/java8-new-features.html
+		- ⭐ 菜鸟教程：https://www.runoob.com/java/java8-new-features.Html
 
 	- 书籍
 
@@ -152,7 +152,7 @@
 
 - Java 实现简单计算器：https://www.lanqiao.cn/courses/185
 - Eclipse 实现 Java 编辑器：https://www.lanqiao.cn/courses/287
-- 一本糊涂账：https://how2j.cn/module/104.html
+- 一本糊涂账：https://how2j.cn/module/104.Html
 - Java 五子棋：https://blog.csdn.net/cnlht/article/details/8176130
 - Java 中国象棋：https://blog.csdn.net/cnlht/article/details/8205733
 - JAVA GUI 图书馆管理系统：https://github.com/uboger/LibraryManager
@@ -286,7 +286,7 @@
 	- 工具
 
 		- VisuAlgo 数据结构和算法动态可视化：https://visualgo.net/zh
-		- 数据结构可视化：https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
+		- 数据结构可视化：https://www.cs.usfca.edu/~galles/visualization/Algorithms.Html
 		- RegExr：https://www.code-nav.cn/rd/?rid=79550af2601114e9012110711798772b（学习、创建和测试正则表达式的在线可视化工具）
 
 	- 网站
@@ -472,8 +472,8 @@
 
 	- 文档
 
-		- SQL - 菜鸟教程：https://www.runoob.com/sql/sql-tutorial.html
-		- MySQL - 菜鸟教程：https://www.runoob.com/mysql/mysql-tutorial.html
+		- SQL - 菜鸟教程：https://www.runoob.com/sql/sql-tutorial.Html
+		- MySQL - 菜鸟教程：https://www.runoob.com/mysql/mysql-tutorial.Html
 
 	- 网站
 
@@ -636,7 +636,7 @@ Java 之所以能成为主流的企业开发语言，很大一部分原因是它
 
 	- 文档
 
-		- Google Java Style Guide：https://google.github.io/styleguide/javaguide.html（谷歌 Java 代码规范）
+		- Google Java Style Guide：https://google.github.io/styleguide/javaguide.Html（谷歌 Java 代码规范）
 
 ### 🌕 Git（3 天）
 
@@ -957,7 +957,7 @@ Git 和它可不一样，是一个版本控制工具，可以更好地管理和�
 
 	- 文档
 
-		- 菜鸟教程：https://www.runoob.com/design-pattern/design-pattern-tutorial.html
+		- 菜鸟教程：https://www.runoob.com/design-pattern/design-pattern-tutorial.Html
 		- 图说设计模式：https://design-patterns.readthedocs.io/zh_CN/latest/
 
 ### 🌕 缓存（14 天）
@@ -1131,7 +1131,7 @@ Nginx 是主流的、开源的、高性能的 HTTP 和反向代理 web 服务器
 
 	- 文档
 
-		- Nginx 中文文档：https://www.nginx.cn/doc/index.html
+		- Nginx 中文文档：https://www.nginx.cn/doc/index.Html
 
 	- 工具
 
@@ -1326,7 +1326,7 @@ Nginx 是主流的、开源的、高性能的 HTTP 和反向代理 web 服务器
 	- 文档
 
 		- Docker — 从入门到实践：https://vuepress.mirror.docker-practice.com/
-		- 菜鸟教程 Docker：https://www.runoob.com/docker/docker-tutorial.html
+		- 菜鸟教程 Docker：https://www.runoob.com/docker/docker-tutorial.Html
 		- 国外 Docker 官方文档：https://docs.docker.com/get-started/
 
 	- 网站
@@ -1477,7 +1477,7 @@ Nginx 是主流的、开源的、高性能的 HTTP 和反向代理 web 服务器
 	- Apache Mahout：机器学习库（https://github.com/apache/mahout）
 	- Apache OpenNLP：NLP 工具库（https://github.com/apache/opennlp）
 	- RxJava：JVM 反应式编程框架（https://github.com/ReactiveX/RxJava）
-	- JProfiler：性能分析库（https://www.ej-technologies.com/products/jprofiler/overview.html）
+	- JProfiler：性能分析库（https://www.ej-technologies.com/products/jprofiler/overview.Html）
 	- jsoup：HTML 文档解析库（https://jsoup.org/）
 	- webmagic：Java 爬虫框架（https://github.com/code4craft/webmagic/）
 
@@ -2050,8 +2050,8 @@ Nginx 是主流的、开源的、高性能的 HTTP 和反向代理 web 服务器
 - 电商秒杀
 
 	- 天猫整站 J2EE：https://how2j.cn/module/115.htm
-	- 天猫整站 SSM：https://how2j.cn/module/134.html
-	- 天猫整站 Springboot：https://how2j.cn/module/156.html
+	- 天猫整站 SSM：https://how2j.cn/module/134.Html
+	- 天猫整站 Springboot：https://how2j.cn/module/156.Html
 	- mall-learning：https://github.com/macrozheng/mall-learningmall（学习教程，架构、业务、技术要点全方位解析）
 	- SpringBoot 电商商城系统 Mall4j：https://github.com/gz-yami/mall4j
 	- SpringBoot 完整电商系统 Mall：https://github.com/macrozheng/mall（包括前台商城系统及后台管理系统，基于 SpringBoot+MyBatis 实现）
@@ -2467,17 +2467,17 @@ Nginx 是主流的、开源的、高性能的 HTTP 和反向代理 web 服务器
 
 	- ⭐ 牛客求职校招版：https://www.nowcoder.com/recommend/campus
 	- 阿里 Java 开发：https://campus.alibaba.com/position.htm?refno=12699
-	- 腾讯后台开发：https://join.qq.com/post_detail.html?pid=1&id=101&tid=2
-	- 腾讯全栈开发：https://join.qq.com/post_detail.html?pid=1&id=137&tid=2
-	- 腾讯运营开发：https://join.qq.com/post_detail.html?pid=1&id=105&tid=2
+	- 腾讯后台开发：https://join.qq.com/post_detail.Html?pid=1&id=101&tid=2
+	- 腾讯全栈开发：https://join.qq.com/post_detail.Html?pid=1&id=137&tid=2
+	- 腾讯运营开发：https://join.qq.com/post_detail.Html?pid=1&id=105&tid=2
 	- 美团后端开发：https://campus.meituan.com/jobs?jobFamily=1&jobId=4005&jobType=1&pageNo=2
-	- 华为软件开发：https://career.huawei.com/reccampportal/portal5/campus-recruitment-detail.html?jobId=176044
+	- 华为软件开发：https://career.huawei.com/reccampportal/portal5/campus-recruitment-detail.Html?jobId=176044
 
 - 社招岗位
 
 	- ⭐ 牛客求职社招版：https://www.nowcoder.com/recommend/fulltime
 	- 阿里社招：https://job.alibaba.com/zhaopin/positionList.htm
-	- 腾讯社招：https://careers.tencent.com/search.html
+	- 腾讯社招：https://careers.tencent.com/search.Html
 
 - 实习
 
