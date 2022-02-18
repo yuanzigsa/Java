@@ -2,12 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e3755ae2-ae7d-4a49-970f-e04c44c92097" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/lib/mysql-connector-java-8.0.28.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Html/列表标签.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Html/坂井泉水.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Html/基础标签.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Html/表单标签.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Html/表格标签.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Html/超链接.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-demo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-demo/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-demo/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-demo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-demo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-demo/mybatis-demo.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitHub.iml" beforeDir="false" afterPath="$PROJECT_DIR$/GitHub.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GitHub/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GitHub/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GitHub/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GitHub/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GitHub/Socket/chat/ServerMsgThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GitHub/Socket/chat/ServerMsgThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java 学习路线.md" beforeDir="false" afterPath="$PROJECT_DIR$/Java 学习路线.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +27,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -45,14 +55,18 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Html" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Java\Html" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Java\lib" />
     </key>
@@ -161,7 +175,12 @@
       <workItem from="1644285606862" duration="610000" />
       <workItem from="1644381598192" duration="1795000" />
       <workItem from="1644393046092" duration="4485000" />
-      <workItem from="1644810664783" duration="6226000" />
+      <workItem from="1644810664783" duration="6813000" />
+      <workItem from="1644937134578" duration="33000" />
+      <workItem from="1644937275082" duration="2215000" />
+      <workItem from="1645026230971" duration="174000" />
+      <workItem from="1645026452317" duration="147000" />
+      <workItem from="1645109127855" duration="4675000" />
     </task>
     <servers />
   </component>
