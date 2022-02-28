@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="yuanzi_spring_ioc:war">
+    <output-path>$PROJECT_DIR$/yuanzi_spring_ioc/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>yuanzi_spring_ioc</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="yuanzi_spring_ioc-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="yuanzi_spring_ioc:war exploded" />
+    </root>
+  </artifact>
+</component>

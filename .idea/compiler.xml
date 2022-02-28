@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Tomcatdemo-1" />
+        <module name="tomcat-demo1" />
+        <module name="yuanzi_spring_ioc" />
+        <module name="spring_ioc" />
+        <module name="web-demo" />
+        <module name="cookie-demo" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="cookie-demo" target="8" />
+      <module name="spring_ioc" target="1.7" />
+      <module name="tomcat-demo1" target="8" />
+      <module name="Tomcatdemo-1" target="1.7" />
+      <module name="untitled" target="8" />
+      <module name="web-demo" target="1.7" />
+      <module name="Yuanzi" target="1.7" />
+      <module name="yuanzi_spring_ioc" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

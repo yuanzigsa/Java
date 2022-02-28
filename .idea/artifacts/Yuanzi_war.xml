@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Yuanzi:war">
+    <output-path>$PROJECT_DIR$/Yuanzi/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>Yuanzi</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="Yuanzi.war">
+      <element id="artifact" artifact-name="Yuanzi:war exploded" />
+    </root>
+  </artifact>
+</component>
