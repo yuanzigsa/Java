@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/../BaiduNetdiskDownload/day08-HTTP&amp;Tomcat&amp;Servlet/代码/spring_ioc" />
+    <file type="web" url="file://$PROJECT_DIR$/cookie-demo" />
+    <file type="web" url="file://$PROJECT_DIR$/Tomcatdemo-1" />
+    <file type="web" url="file://$PROJECT_DIR$/web-demo" />
+    <file type="web" url="file://$PROJECT_DIR$/Yuanzi" />
+    <file type="web" url="file://$PROJECT_DIR$/yuanzi_spring_ioc" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/tomcat-demo/tomcat-demo1/pom.xml" />
+        <option value="$PROJECT_DIR$/Tomcatdemo-1/pom.xml" />
+        <option value="$PROJECT_DIR$/web-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/cookie-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/yuanzi_spring_ioc/pom.xml" />
+        <option value="$PROJECT_DIR$/../BaiduNetdiskDownload/day08-HTTP&amp;Tomcat&amp;Servlet/代码/spring_ioc/pom.xml" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>

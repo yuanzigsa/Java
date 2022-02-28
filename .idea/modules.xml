@@ -3,6 +3,12 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/GitHub.iml" filepath="$PROJECT_DIR$/GitHub.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tomcatdemo-1/Tomcatdemo-1.iml" filepath="$PROJECT_DIR$/Tomcatdemo-1/Tomcatdemo-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cookie-demo/cookie-demo.iml" filepath="$PROJECT_DIR$/cookie-demo/cookie-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../BaiduNetdiskDownload/day08-HTTP&amp;Tomcat&amp;Servlet/代码/spring_ioc/spring_ioc.iml" filepath="$PROJECT_DIR$/../BaiduNetdiskDownload/day08-HTTP&amp;Tomcat&amp;Servlet/代码/spring_ioc/spring_ioc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tomcat-demo/tomcat-demo1/tomcat-demo1.iml" filepath="$PROJECT_DIR$/tomcat-demo/tomcat-demo1/tomcat-demo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web-demo/web-demo.iml" filepath="$PROJECT_DIR$/web-demo/web-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yuanzi_spring_ioc/yuanzi_spring_ioc.iml" filepath="$PROJECT_DIR$/yuanzi_spring_ioc/yuanzi_spring_ioc.iml" />
     </modules>
   </component>
 </project>
