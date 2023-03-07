@@ -16,6 +16,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="cookie-demo" target="8" />
+      <module name="JDBC" target="8" />
       <module name="spring_ioc" target="1.7" />
       <module name="tomcat-demo1" target="8" />
       <module name="Tomcatdemo-1" target="1.7" />
